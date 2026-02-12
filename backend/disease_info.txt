@@ -1,0 +1,63 @@
+Atopic Dermatitis:
+reason: Genetic predisposition, immune system dysfunction, environmental triggers.
+precaution: Moisturize regularly, avoid irritants, manage stress, use prescribed topical medications.
+deadly: No, but significantly impacts quality of life.
+contagious: No.
+symptoms: Itchy, dry, cracked, or inflamed skin.
+cure: There is no cure, but symptoms can be managed.
+
+Melanocytic nevus:
+reason: Genetic factors, sun exposure.
+precaution: Monitor for changes (ABCDEs of melanoma), protect from sun.
+deadly: Usually not, but can rarely develop into melanoma.
+contagious: No.
+symptoms: Moles or skin growths that are usually benign.
+cure: Moles are typically benign and don't require a cure.
+
+Melanoma:
+reason: UV radiation, genetic predisposition, moles.
+precaution: Sun protection, regular skin checks, early detection.
+deadly: Yes, if not detected and treated early.
+contagious: No.
+symptoms: Changes in existing moles, or new moles that are asymmetrical, have irregular borders, varied colors, a diameter greater than 6mm, or are evolving.
+cure: Early-stage melanoma is highly curable with surgical excision.
+
+Squamous cell carcinoma:
+reason: Cumulative sun exposure, UV damage, HPV, weakened immune system.
+precaution: Sun protection, early detection, treatment of precancerous lesions.
+deadly: Yes, if left untreated and metastasizes.
+contagious: No.
+symptoms: Firm, red bump or a flat sore with a scaly crust.
+cure: Usually curable with early detection and treatment (e.g., excision).
+
+Tinea Ringworm Candidiasis:
+reason: Fungal infection.
+precaution: Avoid contact with infected individuals/animals, keep skin dry, use antifungal medications.
+deadly: No, but can be persistent and uncomfortable.
+contagious: Yes.
+symptoms: Ring-shaped rash (ringworm), itching, redness, scaling.
+cure: Antifungal medications are effective.
+
+Vascular lesion:
+reason: Genetic predisposition, aging, blood vessel abnormalities.
+precaution: Usually no precautions needed; treatment for cosmetic reasons or if bothersome.
+deadly: No.
+contagious: No.
+symptoms: Visible red or purple marks on the skin.
+cure: Treatment varies depending on the type and severity (e.g., laser therapy).
+
+Benign keratosis:
+reason: Aging, sun exposure.
+precaution: No specific precautions needed, monitor for changes.
+deadly: No.
+contagious: No.
+symptoms: Waxy, scaly, or slightly raised growths on the skin.
+cure: Not usually needed, can be removed for cosmetic reasons.
+
+Actinic keratosis:
+reason: Chronic sun exposure, UV damage.
+precaution: Strict sun protection, regular skin exams.
+deadly: Can develop into squamous cell carcinoma if untreated.
+contagious: No.
+symptoms: Rough, scaly patches on sun-exposed areas.
+cure: Cryotherapy, topical medications, or other procedures.
